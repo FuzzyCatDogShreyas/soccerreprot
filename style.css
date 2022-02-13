@@ -1,0 +1,27 @@
+.container1 {
+    background-color: brown;
+    text-align: center;
+}
+.containerhead1 {
+    background-color: lightblue;
+    text-align: center;
+}
+.container2 {
+    background-color: lightcoral;
+    text-align: center;
+}
+.containerhead2 {
+    background-color: blueviolet;
+    text-align: center;
+}
+.containerhead3 {
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+.container2l {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+body {
+    background-color: orangered;
+}
